@@ -1,0 +1,5 @@
+# Excalidraw utils bundle is ~19 MB — downloaded on demand by setup-offline.ps1
+@excalidraw/
+
+# npm dependencies — installed once with: npm install
+node_modules/
