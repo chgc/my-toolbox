@@ -8,15 +8,11 @@ description: "通用受控語言寫作風格（clarity-over-elegance），由 co
 ## 適用範圍（Scope）
 
 - **套用在**：任何需要讀者快速、低成本理解的書面輸出——README、技術文件、規格書、SOP、API 文件、報告、email、教學、Slack／通訊訊息、AI 產生的一般文字。
-- **一律不套用**：
-  - **blog.kevinyang.net 的部落格文章 → 改用 `kevin-writing-style`**（兩者衝突時，部落格文章一律以 kevin-writing-style 為準）。
-  - Obsidian 個人筆記（記給自己、求快求全的筆記，不適用）。
-  - 行銷文案、社群吸睛貼文、需要強烈個人聲音的內容。
 - 判斷方式：目標是「讓讀者以最低成本理解」→ 用本風格；目標是「展現個人風格 / 行銷」→ 不用。
 
 ## 背景
 
-- 由 `content-clarity-style` 泛化而來：content-pipeline 專用版只服務 strategist → researcher → writer → editor → publisher 五個 agent；本 skill 是同一套規則的通用版，任何寫作場合都可用。
+- 本 skill 是同一套規則的通用版，任何寫作場合都可用。
 - 核心方法：改編 **ASD-STE100**（航空維修文件用的受控語言規範）。其約束恰好命中「可讀性」——少字、少歧義、少花樣。
 - 刻意保留 **80% 的 dial**：STE 全開會變成機器語，所以分成「強制核心」與「可調鬆緊」兩層。
 
@@ -79,14 +75,6 @@ description: "通用受控語言寫作風格（clarity-over-elegance），由 co
 ### 定稿時（排版/發送）
 - 先給「格式建議」：prose / diagram / HTML 哪個最易懂 + 理由。
 - 維持原內容與編輯決定，本 skill 只負責把 prose 換成更易懂的載體，不重新寫作。
-
-## 與其他 skills 的關係
-
-| Skill | 優先序 |
-|-------|--------|
-| `kevin-writing-style` | 部落格文章（blog.kevinyang.net）一律蓋過本 skill |
-| `content-clarity-style` | content-pipeline 專用版；本 skill 是同一風格的通用版，兩者可並存 |
-| `content-obsidian-pipeline` | 儲存相關；本 skill 只管寫作風格，不管儲存格式 |
 
 ## 一句話總結
 
