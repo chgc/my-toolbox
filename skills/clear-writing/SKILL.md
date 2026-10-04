@@ -1,6 +1,6 @@
 ---
 name: clear-writing
-description: "通用受控語言寫作風格（clarity-over-elegance），由 content-clarity-style 泛化，改編自 ASD-STE100（80% dial）：一句一事、主動語態、術語一致、結論先行、以 format 取代 prose。適用於任何以「降低讀者理解成本」為目標的文字——README、技術文件、規格書、SOP、email、報告、教學、說明。不適用於 blog.kevinyang.net 部落格文章（用 kevin-writing-style）、Obsidian 個人筆記、行銷文案。當使用者要求「寫清楚一點」「受控語言」「STE / ASD-STE100」「clarity / readability」「降低理解成本」時使用。"
+description: "通用受控語言寫作風格（clarity-over-elegance），由 content-clarity-style 泛化，改編自 ASD-STE100（80% dial）：一句一事、主動語態、術語一致、結論先行、以 format 取代 prose。適用於任何以「降低讀者理解成本」為目標的文字——README、技術文件、規格書、SOP、email、報告、教學、說明。當使用者要求「寫清楚一點」「受控語言」「STE / ASD-STE100」「clarity / readability」「降低理解成本」時使用。"
 ---
 
 # Clear Writing Style（通用受控語言寫作風格）
